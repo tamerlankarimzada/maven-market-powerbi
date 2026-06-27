@@ -1,6 +1,8 @@
 # Maven Market Global Sales Performance Dashboard
 
-<img width="1047" height="600" alt="image" src="https://github.com/user-attachments/assets/260b883b-00de-43d1-88fe-0db79b5a641c" />
+<img width="1216" height="665" alt="image" src="https://github.com/user-attachments/assets/d1153729-0719-4804-89a8-9aad6ebc3c7e" />
+
+
 
 An end-to-end business intelligence solution engineered in Power BI Desktop to analyze global retail operations. This project transforms raw transaction, return, and regional data into an executive-level interactive dashboard tracking $1.76M in total revenue and monitoring operational profit margins across global locations. 
 
