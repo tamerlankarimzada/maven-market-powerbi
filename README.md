@@ -3,7 +3,6 @@
 <img width="1216" height="665" alt="image" src="https://github.com/user-attachments/assets/d1153729-0719-4804-89a8-9aad6ebc3c7e" />
 
 
-
 An end-to-end business intelligence solution engineered in Power BI Desktop to analyze global retail operations. This project transforms raw transaction, return, and regional data into an executive-level interactive dashboard tracking $1.76M in total revenue and monitoring operational profit margins across global locations. 
 
 ## 📊 Business Context & Insights
